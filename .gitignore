@@ -20,3 +20,6 @@ SysInfo.txt
 *.pdb
 *.mdb
 .idea/
+
+# powershell function might even delete their caches if they ran it carelessly
+clean-unity.ps1
